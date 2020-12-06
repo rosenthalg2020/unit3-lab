@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Coda&family=Combo&family=Audiowide');
+
+body {
+  background-image: url("./images/HomeImage.jpg");
+  padding: 20px;
+  margin: 0;
+}
+
+
+h1, h2 {
+    text-align: center;
+    font-family: 'Coda', cursive;
+    color:white;
+}
+
+p.smenu {
+  color:white;
+  font-family: 'Coda', cursive;
+  font-size: 28px;
+}
+
+
+
+ul.dozen {
+  font-family: 'Combo', cursive;
+  font-size: 20px;
+  color:white;
+  column-count: 2;
+  column-rule: dotted 1px #333;
+  list-style-type: none;
+}
+
+p.dmenu {
+  color:white;
+  font-family: 'Coda', cursive;
+  font-size: 28px;
+}
+
+p.flavors {
+  color:white;
+  font-family: 'Coda', cursive;
+  font-size: 20px;
+}
+
+ul.drink {
+  font-family: 'Combo', cursive;
+  font-size: 20px;
+  color:white;
+  column-count: 3;
+  column-rule: dotted 1px #333;
+  list-style-type: none;
+}
+
+ul.scones {
+  font-family: 'Combo', cursive;
+  font-size: 14px;
+  color:white;
+  column-count: 8;
+  column-rule: dotted 1px #333;
+  list-style-type: none;
+}
+
+ul.fund {
+  font-family: 'Combo',cursive;
+  font-size: 24px;
+  color: white;
+}
+
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header {
+  
+  padding: 0;
+}
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+.content {
+  
+  padding: 20px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
+
+p.robinsons {
+  font-family: 'Audiowide', cursive;
+  color: white;
+  font-size: 28px;
+}
+
+p.family {
+  font-family: 'Combo',cursive;
+  font-size: 24px;
+  color: white;
+}
