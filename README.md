@@ -1,3 +1,7 @@
+This site was setup for a React single page navigation project. 
+It is a varient to an already exhisting website Four30 Scones.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
