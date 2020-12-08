@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Coda&family=Combo&family=Audiowide');
+@import url('https://fonts.googleapis.com/css2?family=Coda&family=Combo&family=Audiowide&family=Russo+One&family=Krona+One');
 
 body {
   background-image: url("./images/HomeImage.jpg");
@@ -9,20 +9,22 @@ body {
 
 h1, h2 {
     text-align: center;
-    font-family: 'Coda', cursive;
+    font-family: 'Krona One', cursive;
     color:white;
+    border-bottom: 2px outset #1C6EA4;
 }
 
 p.smenu {
   color:white;
   font-family: 'Coda', cursive;
   font-size: 28px;
+  border-bottom: 2px outset #1C6EA4;
 }
 
 
 
 ul.dozen {
-  font-family: 'Combo', cursive;
+  font-family: 'Krona One', cursive;
   font-size: 20px;
   color:white;
   column-count: 2;
@@ -34,6 +36,7 @@ p.dmenu {
   color:white;
   font-family: 'Coda', cursive;
   font-size: 28px;
+  border-bottom: 2px outset #1C6EA4;
 }
 
 p.flavors {
@@ -43,7 +46,7 @@ p.flavors {
 }
 
 ul.drink {
-  font-family: 'Combo', cursive;
+  font-family: 'Krona One', cursive;
   font-size: 20px;
   color:white;
   column-count: 3;
@@ -52,16 +55,17 @@ ul.drink {
 }
 
 ul.scones {
-  font-family: 'Combo', cursive;
+  font-family: 'Krona One', cursive;
   font-size: 14px;
   color:white;
   column-count: 8;
   column-rule: dotted 1px #333;
   list-style-type: none;
+  border-bottom: 2px outset #1C6EA4;
 }
 
 ul.fund {
-  font-family: 'Combo',cursive;
+  font-family: 'Krona One', cursive;
   font-size: 24px;
   color: white;
 }
@@ -72,7 +76,7 @@ ul.header li {
   margin: 0;
 }
 ul.header {
-  
+  font-family: 'Krona One', cursive;
   padding: 0;
 }
 ul.header li a {
@@ -81,6 +85,7 @@ ul.header li a {
   text-decoration: none;
   padding: 20px;
   display: inline-block;
+  border-bottom: 2px outset #1C6EA4;
 }
 .content {
   
@@ -97,11 +102,12 @@ ul.header li a {
 p.robinsons {
   font-family: 'Audiowide', cursive;
   color: white;
-  font-size: 28px;
+  font-size: 36px;
+  border-bottom: 2px outset #1C6EA4;
 }
 
 p.family {
-  font-family: 'Combo',cursive;
+  font-family: 'Krona One', cursive;
   font-size: 24px;
   color: white;
 }
